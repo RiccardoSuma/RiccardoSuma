@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Riccardo 👋
 
-<!--
-**RiccardoSuma/RiccardoSuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a last-year MSc student in Electronic Engineering at the University of Genoa, with a strong focus on Machine Learning, Deep Learning, and AI systems.
 
-Here are some ideas to get you started:
+Currently working with **ABB** on a multimodal LLM pipeline for automated video-based technical support — integrating Whisper, CLIP, Qdrant, and LLM reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Interests
+- Machine Learning · Deep Learning · AI Systems  
+- Multimodal models · RAG · Embeddings  
+- Python · PyTorch · FastAPI · Docker · Qdrant  
+- Reinforcement Learning (DQN, Double-Q, SARSA)  
+- Planning & Reasoning (PDDL, ENHSP/OPTIC)
+
+### 📌 Selected Projects
+- **ABB Thesis – Multimodal LLM System**  
+  End-to-end pipeline integrating ASR, vision encoders, vector DB retrieval and LLM reasoning.
+
+- **RL Agents – OpenAI Gym**  
+  Implementations of DQN, Double Q-Learning and SARSA on environments like LunarLander.
+
+- **Warehouse Planning in PDDL**  
+  Advanced PDDL+ domain with durative actions, events, processes, and multi-agent coordination.
+
+---
+
+Feel free to reach out!  
+📫 riccardosuma@gmail.com
