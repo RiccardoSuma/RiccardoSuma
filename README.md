@@ -24,9 +24,9 @@ Currently working with **ABB** on a multimodal LLM pipeline for automated video-
   Advanced PDDL+ domain with durative actions, events, processes, and multi-agent coordination.
 
 - **Electronics coursework**
-  Design and sizing of multistage differential amplifiers with specified gain, bandwith and noise rejection constraints. (Cadence)
-  Developement of schematic and layout of a tapered buffer, taking into account parasitic capacities and time constraints. (Xschem, Magic, LVS)
-  Lab activities on RTL Digital Design in VHDL. (FSM, Arithmetic Circuits)
+  ~Design and sizing of multistage differential amplifiers with specified gain, bandwith and noise rejection constraints. (Cadence)
+  ~Developement of schematic and layout of a tapered buffer, taking into account parasitic capacities and time constraints. (Xschem, Magic, LVS)
+  ~Lab activities on RTL Digital Design in VHDL. (FSM, Arithmetic Circuits)
   
 ---
 
